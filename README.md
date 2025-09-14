@@ -1,0 +1,1 @@
+## Typescript excercises repository initialized.
